@@ -20,7 +20,7 @@
 ">
     <img src="https://img.shields.io/badge/Instagram-FOLLOW-8B0A19?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:sahlanmuhammad798@gmail.com">
     <img src="https://img.shields.io/badge/Email-CONTACT-8B0A19?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_USERNAME">
