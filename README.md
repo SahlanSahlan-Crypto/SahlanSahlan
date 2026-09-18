@@ -35,5 +35,5 @@
 ```text
 💻  I build useful, modern web applications.
 🚀  Currently learning and creating every day.
-🌍  Based in: YOUR_COUNTRY
-📫  Reach me at: YOUR_EMAIL@gmail.com
+🌍  Based in: Sri Lanka
+📫  Reach me at: sahlanmuhammad798@gmail.com
