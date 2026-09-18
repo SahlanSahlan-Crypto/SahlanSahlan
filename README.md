@@ -23,7 +23,7 @@
   <a href="mailto:sahlanmuhammad798@gmail.com">
     <img src="https://img.shields.io/badge/Email-CONTACT-8B0A19?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/sahlanbuilds">
     <img src="https://img.shields.io/badge/GitHub-FOLLOW-8B0A19?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
