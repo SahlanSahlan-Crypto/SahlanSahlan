@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=FF3155&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+YOUR+NAME+%F0%9F%91%8B;Building+ideas+into+real+projects.;Code.+Create.+Learn.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=FF3155&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+YOUR+Sahlan+%F0%9F%91%8B;Building+ideas+into+real+projects.;Code.+Create.+Learn.+Repeat." />
 </p>
 
 <p align="center">
