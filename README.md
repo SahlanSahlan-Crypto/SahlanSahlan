@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:4b0008,100:dc143c&height=220&section=header&text=YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CREATOR%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=15"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:4b0008,100:dc143c&height=220&section=header&text=SahlanSahlan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20CREATOR%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=15"
     width="100%"
   />
 </p>
